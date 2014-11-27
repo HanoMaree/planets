@@ -3,5 +3,5 @@ Wolfman: WTF does the colour matter?
 Dracula: Colour is the only thing that matters
 Wolfman: I will make you bleed
 Dracula: Colour is the only thing that matters.
-Wolfman: I am going to make you bleed
+Dracula: I dont have blood.
 
