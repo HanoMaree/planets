@@ -1,2 +1,8 @@
 New file for sharing
+<<<<<<< HEAD
 this is extra stuff for conflict
+=======
+Sharing is not caring 
+pwd planets
+123456
+>>>>>>> 1b4409e0a66270bc2a47ac0fce5719824514b560
